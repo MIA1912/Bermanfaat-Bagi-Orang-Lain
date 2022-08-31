@@ -1,0 +1,16 @@
+Kegiatan Belajar Sehari-hari
+
+Date : 31-08-2022
+1. Belajar MySQL
+	-> Menggunakan device VSCode dengan extension database
+	A. Pembelajaran
+		- Numeric function
+		- Auto Increment
+		- String Function
+		- Date dan Time function
+	  Source : MySQL document from google
+	
+	B. Paham dan Kuasai
+		- Numeric Function
+			* 
+		
