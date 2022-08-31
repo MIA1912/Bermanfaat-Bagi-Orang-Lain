@@ -8,9 +8,23 @@ Date : 31-08-2022
 		- Auto Increment
 		- String Function
 		- Date dan Time function
+		- Flow Contrl Function
 	  Source : MySQL document from google
 	
 	B. Paham dan Kuasai
 		- Numeric Function
 			* 
+			*
+		- Auto Increment
+			* Alhamdulillah sudah paham
+			* intinya adalah membuat primary key secara otomatis dengan nomor berurutan
+			* nomor terus berjalan walaupun ada salah satu yang kita hapus
+		- String Function
+			*
+		- Date dan Time Function
+			*
+		- Flow Control Function
+			* Penggunaan IF, IFnull dll
+			* 
+			
 		
